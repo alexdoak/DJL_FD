@@ -1,0 +1,10 @@
+# MATLAB autosaves and generated output
+*.asv
+*.mat
+*.fig
+*.eps
+*.png
+*.pdf
+
+# Starting solutions for the examples
+!examples/*.mat
